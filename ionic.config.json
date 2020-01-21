@@ -1,5 +1,7 @@
 {
   "name": "qrapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
